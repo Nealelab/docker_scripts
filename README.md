@@ -8,6 +8,9 @@ https://hub.docker.com/r/broadinstitute
 
 [sc-enrichment](https://github.com/Nealelab/sc_enrichment) uses this [Dockerfile](https://github.com/Nealelab/sc_enrichment/blob/master/Dockerfile) in conjunction with dsub to create a computing environment that has S-LDSC and MAGMA.
 
+### Dockerfiles used by TJ Singh
+[Dockerhub link](https://hub.docker.com/search/?q=tarjindersingh&type=image)
+And [presentation](https://docs.google.com/presentation/d/1K1ZUMuXytr9ffXwZPm01HnYHRLI7nf_G8XkbmLDsRH4/edit?usp=sharing) for using in Google Cloud
 
 ### Additional resources relating to Docker
 
